@@ -39,12 +39,8 @@ python evolutionary_code.py
 ## Results
 The following images demonstrate the evolution over generations:
 
-| Generation | Image |
-|------------|-------|
-| 1          | ![Gen 1](generation_1.png) |
-| 217        | ![Gen 217](generation_217.png) |
-| 10000      | ![Gen 10000](generation_10000.png) |
-| 50000      | ![Gen 50000](generation_50000.png) |
+![Evo 1](Mona_evolution1.PNG)
+![Evo 2](Mona_evolution2.PNG)
 
 ## Future Improvements
 - Optimize polygon placement using reinforcement learning.
